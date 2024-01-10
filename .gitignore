@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# heavy file in project
+*.dll
+*.bmp
+opencv_world480.dll
+opencv_world480d.dll
+
+
+# other folder
+Release/
+libxl-win-4.2.0/
